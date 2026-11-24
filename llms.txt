@@ -1,0 +1,25 @@
+# Unica Labs
+
+> Unica Labs è il partner tecnologico unico per le imprese: connettività, reti, cloud, telefonia, sicurezza, business continuity, workplace, gestione IT, consulenza, intelligenza artificiale, smart building ed efficienza energetica. Slogan: “One Partner. Every Solution.”
+
+Unica Labs è un unico interlocutore che integra competenze, soluzioni e servizi tecnologici, affiancando l’impresa e il suo reparto IT in ogni fase: analisi, progettazione, realizzazione e gestione nel tempo. L’offerta comprende 5 aree di competenza e 17 moduli commerciali, disponibili in acquisto, noleggio (ove disponibile) o come servizi gestiti.
+
+- Contatto commerciale: info@unicalabs.it
+- Sito: https://unicalabs.it/
+
+## Aree di competenza
+
+- [Infrastructure & Connectivity](https://unicalabs.it/infrastruttura-connettivita/): Connettività, reti, cloud e comunicazioni per un’infrastruttura solida, sicura e sempre operativa. Moduli: Unica Connect, Unica Network, Unica Cloud, Unica Voice.
+- [Security & Business Continuity](https://unicalabs.it/sicurezza-business-continuity/): Soluzioni integrate per proteggere persone, dati e infrastrutture, assicurando la continuità operativa del business. Moduli: Unica Security, Unica Continuity, Unica Protect.
+- [Workplace & Collaboration](https://unicalabs.it/workplace-collaboration/): Tecnologie e servizi che migliorano la collaborazione, la produttività e l’esperienza delle persone. Moduli: Unica Work, Unica Meet, Unica Print, Unica Display.
+- [Management & Innovation](https://unicalabs.it/gestione-consulenza-innovazione/): Competenze e strumenti per governare i sistemi, sviluppare i progetti e introdurre tecnologie ad alto valore, come l’intelligenza artificiale. Moduli: Unica Manage, Unica Advisory, Unica Project, Unica AI.
+- [Smart Building & Energy](https://unicalabs.it/smart-building-energia/): Automazione degli edifici e gestione intelligente dell’energia per spazi più efficienti e sostenibili. Moduli: Unica Building, Unica Energy.
+
+## Pagine principali
+
+- [Home](https://unicalabs.it/): panoramica, metodo, modello commerciale, valore, FAQ e contatti
+- [Contenuto completo in Markdown](https://unicalabs.it/llms-full.txt): tutte le informazioni del sito in un unico file
+
+## Optional
+
+- [Sitemap](https://unicalabs.it/sitemap.xml)
